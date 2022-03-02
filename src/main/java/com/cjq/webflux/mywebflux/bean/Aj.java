@@ -8,6 +8,7 @@ package com.cjq.webflux.mywebflux.bean;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 /**
  * Aj
@@ -18,6 +19,7 @@ import lombok.Data;
  */
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 public class Aj {
 
     /**
